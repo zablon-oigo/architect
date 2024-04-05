@@ -1,4 +1,6 @@
 import React from 'react'
+import Carousel from 'react-multi-carousel'
+import "react-multi-carousel/lib/styles.css";
 
 function Testimonial() {
   return (
@@ -9,6 +11,7 @@ function Testimonial() {
             <p className="">Testimonial</p>
             <div className="relative pb-8 lg:pb-0">
                 <h1 className="text-xl lg:text-4xl">What our <span className="underline decoration-[#fdca51] ">client</span> say's</h1>
+
             </div>
         </div>
     </div>
