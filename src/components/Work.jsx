@@ -94,9 +94,9 @@ function Work() {
             </div>
           </div>
           <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 left-0 rotate-[315deg]"/>
-          <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 left-0 rotate-45"/>
-          <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 left-0 rotate-[225deg]"/>
-          <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 left-0 rotate-[134deg]"/>
+          <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 right-0 rotate-45"/>
+          <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute bottom-0 left-0 rotate-[225deg]"/>
+          <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute bottom-0 right-0 rotate-[134deg]"/>
         </section>
       </div>
     </div>
