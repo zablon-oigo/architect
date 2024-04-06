@@ -37,7 +37,38 @@ function Projects() {
                     <Card img={image} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
                     <Card img={image} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
                 </div>
+                <button className="flex items-center px-4 py-2 mx-auto mt-12 text-sm text-white bg-[#fd7b47] gap-2 transition duration-300 ease-out transform rounded-full hover:scale-110 ">
+                <p className="">Load more </p>
+                <IoMdArrowDropright className="text-xl"/>
+              </button>
+            <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 left-0 rotate-[315deg]"/>
+            <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute top-0 right-0 rotate-45"/>
+            <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute bottom-0 left-0 rotate-[225deg]"/>
+            <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute bottom-0 right-0 rotate-[134deg]"/>
             </section>
+            <section className="flex items-center justify-between gap-2 mt-24 mb-16 ">
+                <span className="flex items-center lg:gap-x-2">
+                    <MdOfflineBolt className='text-3xl'/>
+                    <p className="text-xl font-medium">BoltShift</p>
+                    </span>  
+                <span className="flex items-center lg:gap-x-2">
+                    <MdOfflineBolt className='text-3xl'/>
+                    <p className="text-xl font-medium">BoltShift</p>
+                    </span>  
+                <span className="flex items-center lg:gap-x-2">
+                    <MdOfflineBolt className='text-3xl'/>
+                    <p className="text-xl font-medium">BoltShift</p>
+                    </span>  
+                <span className="flex items-center lg:gap-x-2">
+                    <MdOfflineBolt className='text-3xl'/>
+                    <p className="text-xl font-medium">BoltShift</p>
+                    </span>  
+                <span className="flex items-center lg:gap-x-2">
+                    <MdOfflineBolt className='text-3xl'/>
+                    <p className="text-xl font-medium">BoltShift</p>
+                    </span>  
+
+                </section>
         </div>
     </div>
   )
