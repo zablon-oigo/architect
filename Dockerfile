@@ -12,7 +12,7 @@ WORKDIR /architect
 
 # Copy the app dependencies
 COPY package*.json ./
-
+COPY tailwind.config.js  postcss.config.js ./
 # Change the ownership of the files to the 'architect' user
 USER root
 RUN chown -R architect:architect .
