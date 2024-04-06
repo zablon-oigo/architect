@@ -52,20 +52,20 @@ function Projects() {
                     <p className="text-xl font-medium">BoltShift</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <MdOfflineBolt className='text-3xl'/>
-                    <p className="text-xl font-medium">BoltShift</p>
+                    <SiHackthebox className='text-3xl'/>
+                    <p className="text-xl font-medium">Lightbox</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <MdOfflineBolt className='text-3xl'/>
-                    <p className="text-xl font-medium">BoltShift</p>
+                    <FaStackOverflow className='text-3xl'/>
+                    <p className="text-xl font-medium">FeatherDev</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <MdOfflineBolt className='text-3xl'/>
-                    <p className="text-xl font-medium">BoltShift</p>
+                    <BiLoaderCircle className='text-3xl'/>
+                    <p className="text-xl font-medium">Sphererule</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <MdOfflineBolt className='text-3xl'/>
-                    <p className="text-xl font-medium">BoltShift</p>
+                    <TbVectorBezierCircle className='text-3xl'/>
+                    <p className="text-xl font-medium">Nietzsche</p>
                     </span>  
 
                 </section>
