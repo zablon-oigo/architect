@@ -67,6 +67,22 @@ function Projects() {
                     <TbVectorBezierCircle className='text-3xl'/>
                     <p className="text-xl font-medium">Nietzsche</p>
                     </span>  
+                
+                </section>
+                <section className="relative items-center justify-between mt-12 lg:flex lg:p-8">
+                    <div className="lg:w-1/2">
+                        <p className="text-[#fb7a3f]">
+                            Our Newsletter
+                        </p>
+                        <h1 className="text-[#054130] lg:text-4xl font-semibold pt-4 pb-6">subscribe our daily <span className="underline decoration-[#fdca51]">Newsletter</span> for update
+                        </h1>
+                        <p className="leading-8 text-black">
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas hic exercitationem ex odit iure consequuntur consequatur doloribus officia modi, at cumque? Non excepturi quidem officiis rerum consectetur incidunt voluptatum ex?
+                        </p>
+                        <div className="">
+                            
+                        </div>
+                    </div>
 
                 </section>
         </div>
