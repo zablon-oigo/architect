@@ -1,4 +1,3 @@
-import React from 'react'
 import { IoMdArrowDropright,IoIosArrowUp } from "react-icons/io";
 import { PiDiamondsFourFill,PiLadderSimpleThin } from "react-icons/pi";
 import { BiSolidTreeAlt } from "react-icons/bi";

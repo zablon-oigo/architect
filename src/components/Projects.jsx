@@ -79,11 +79,18 @@ function Projects() {
                         <p className="leading-8 text-black">
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas hic exercitationem ex odit iure consequuntur consequatur doloribus officia modi, at cumque? Non excepturi quidem officiis rerum consectetur incidunt voluptatum ex?
                         </p>
-                        <div className="">
+                        <div className="relative flex items-center pt-8">
+                            <input type="email" name="" id="" className="px-2 bg-white rounded-full outline-none h-14 md:px-6" placeholder='Enter your email' />
+                            <button className="absolute md:right-4 right-1 rounded-full md:px-8 px-3 flex items-center md:text-sm text-xs bg-[#fd7b47] text-white">
+                                <p className="">Subscribe</p>
+                                <IoMdArrowDropright className='h-12 text-xl'/>
+                            </button>
                             
                         </div>
                     </div>
-
+                     <div className="flex justify-center py-8 lg:py-0">
+                        <img src={image} alt="" className="lg:w-full w-80" />
+                     </div>
                 </section>
         </div>
     </div>
