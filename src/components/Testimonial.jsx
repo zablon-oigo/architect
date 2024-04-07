@@ -69,6 +69,7 @@ function Testimonial() {
                 arrows={false}
                 infinite
                 autoPlay
+                transitionDuration={500}
                 renderButtonGroupOutside={true} 
                 customButtonGroup={<ButtonGroup />}
                 >
