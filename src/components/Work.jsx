@@ -15,28 +15,28 @@ function Work() {
             Bringing new life to the <br/> old <span className="underline decoration-[#fb7a3f]">processes</span>
           </h2>
           <div className="grid grid-cols-1 gap-8 pt-8 lg:grid-cols-4 md:grid-cols-2">
-            <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
+            <span className="bg-[#fffaf4] duration-700 py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <PiDiamondsFourFill className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Interior desing</p>
                 <p className="font-light text-black ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
-            <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
+            <span className="bg-[#fffaf4] duration-700 py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <SiLinktree className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Architectural</p>
                 <p className="font-light text-black">
                   Interior design is the art and science enhancing
                 </p>
             </span>
-            <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
+            <span className="bg-[#fffaf4] duration-700 py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <TbStackBackward className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Construction</p>
                 <p className="font-light text-black ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
-            <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
+            <span className="bg-[#fffaf4] duration-700 py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <BiSolidTreeAlt className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Decoration</p>
                 <p className="font-light text-black ">
