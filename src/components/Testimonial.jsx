@@ -68,7 +68,7 @@ function Testimonial() {
                 draggable={false}
                 arrows={false}
                 infinite
-                autoplay
+                autoPlay
                 renderButtonGroupOutside={true} 
                 customButtonGroup={<ButtonGroup />}
                 >
