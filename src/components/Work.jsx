@@ -18,28 +18,28 @@ function Work() {
             <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <PiDiamondsFourFill className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Interior desing</p>
-                <p className="text-black">
+                <p className="font-light text-black ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
             <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <SiLinktree className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Architectural</p>
-                <p className="text-black">
+                <p className="font-light text-black">
                   Interior design is the art and science enhancing
                 </p>
             </span>
             <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <TbStackBackward className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Construction</p>
-                <p className="text-black">
+                <p className="font-light text-black ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
             <span className="bg-[#fffaf4] py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <BiSolidTreeAlt className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Decoration</p>
-                <p className="text-black">
+                <p className="font-light text-black ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
@@ -58,7 +58,7 @@ function Work() {
             <h1 className="text-[#054130] lg:text-5xl font-semibold pt-4 pb-6">
               Beautiful accoustics & <span className="underline decoration-[#fdca51]">Achievements</span> 
             </h1>
-            <p className="font-light leading-8 text-black ">
+            <p className="font-light leading-8 ">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime odio voluptas tempora nihil voluptatem, magnam eaque blanditiis officia iusto asperiores voluptate placeat id! Illo inventore quae veniam maxime perferendis, ad necessitatibus eum eos quo, veritatis tempore ipsa, cumque numquam! Nihil.
             </p>
             <div className="flex items-center py-8 lg:gap-x-8">
