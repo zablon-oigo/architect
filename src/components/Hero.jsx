@@ -14,7 +14,7 @@ function Hero() {
             <p className="pb-8 font-light text-md lg:w-2/3 first-letter:capitalize">
                architecture is the art and technique of designing and building, as distinguished from the skills 
             </p>
-            <div className="flex items-center gap-x-2">
+            <div className="flex items-center justify-center md:justify-start gap-x-2">
             <button className="rounded-full px-3 py-2 flex items-center text-sm bg-[#fd7b47] gap-2 transition ease-out duration-300 transform hover:scale-110">
                 <p>Our Services</p>
                 <IoMdArrowDropright className="text-xl"/>
