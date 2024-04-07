@@ -26,13 +26,13 @@ function Navbar() {
           </div>
         </div>
         <div className={`${menu ?"flex":"hidden"} lg:flex flex-grow lg:items-center items-baseline lg:h-auto h-[90vh] justify-center lg:w-4/5`}>
-          <ul className="flex flex-col lg:flex-row items-center justify-between w-full gap-x-4 list-none lg:ml-auto lg:transform-none lg:translate-y-[-50%]">
+          <ul className="flex flex-col lg:flex-row items-center justify-between w-full gap-x-4 list-none lg:ml-auto lg:transform-none  lg:translate-y-[-50%]">
             <div className="flex flex-col lg:flex-row items-center justify-center gap-x-8 lg:w-2/3 lg:border-x border-[#134e3c]">
-              <li className="items-center py-2 font-medium leading-snug text-white hover:opacity-40"><a href="">Design</a></li>
-              <li className="items-center py-2 font-medium leading-snug text-white hover:opacity-40"><a href="">About us</a></li>
-              <li className="items-center py-2 font-medium leading-snug text-white hover:opacity-40"><a href="">Projects</a></li>
-              <li className="items-center py-2 font-medium leading-snug text-white hover:opacity-40"><a href="">Contact team</a></li>
-              <li className="items-center py-2 font-medium leading-snug text-white hover:opacity-40"><a href="">Reviews</a></li>
+              <li className="items-center py-6 font-medium leading-snug text-white hover:opacity-40"><a href="">Design</a></li>
+              <li className="items-center py-6 font-medium leading-snug text-white hover:opacity-40"><a href="">About us</a></li>
+              <li className="items-center py-6 font-medium leading-snug text-white hover:opacity-40"><a href="">Projects</a></li>
+              <li className="items-center py-6 font-medium leading-snug text-white hover:opacity-40"><a href="">Contact team</a></li>
+              <li className="items-center py-6 font-medium leading-snug text-white hover:opacity-40"><a href="">Reviews</a></li>
             </div>
             <div className="flex flex-col items-center justify-end lg:w-1/3 lg:flex-row gap-x-8">
             <li className="flex items-center py-2 font-medium leading-snug text-white hover:opacity-40">
