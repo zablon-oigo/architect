@@ -48,23 +48,23 @@ function Projects() {
             </section>
             <section className="flex items-center justify-between gap-2 mt-24 mb-16 ">
                 <span className="flex items-center lg:gap-x-2">
-                    <MdOfflineBolt className='text-3xl'/>
+                    <MdOfflineBolt className='text-md lg:text-3xl'/>
                     <p className="text-xs font-medium lg:text-xl">BoltShift</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <SiHackthebox className='text-3xl'/>
+                    <SiHackthebox className='text-md lg:text-3xl'/>
                     <p className="text-xs font-medium lg:text-xl">Lightbox</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <FaStackOverflow className='text-3xl'/>
+                    <FaStackOverflow className='text-md lg:text-3xl'/>
                     <p className="text-xs font-medium lg:text-xl">FeatherDev</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <BiLoaderCircle className='text-3xl'/>
+                    <BiLoaderCircle className='text-md lg:text-3xl'/>
                     <p className="text-xs font-medium lg:text-xl">Sphererule</p>
                     </span>  
                 <span className="flex items-center lg:gap-x-2">
-                    <TbVectorBezierCircle className='text-3xl'/>
+                    <TbVectorBezierCircle className='text-md lg:text-3xl'/>
                     <p className="text-xs font-medium lg:text-xl">Nietzsche</p>
                     </span>  
                 
