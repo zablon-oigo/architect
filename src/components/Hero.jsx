@@ -9,7 +9,7 @@ function Hero() {
         <div className="xl:w-[1200px] mx-auto px-3 lg:flex items-center justify-between ">
             <div className="text-white lg:w-1/2">
             <h1 className="pb-8 text-2xl font-medium leading-normal lg:text-7xl first-letter:capitalize">
-                architects with <span className="underline italic decoration-[#fdca51]  ">diffrent</span> approach
+                architects with a <span className="underline capitalize decoration-[#fdca51] primary-font">diffrent</span> approach
             </h1>
             <p className="pb-8 font-light text-md lg:w-2/3 first-letter:capitalize">
                architecture is the art and technique of designing and building, as distinguished from the skills 
