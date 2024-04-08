@@ -26,21 +26,21 @@ function Work() {
             <span className="bg-[#fffaf4] duration-700 flex items-center lg:items-start flex-col py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <SiLinktree className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Architectural</p>
-                <p className="font-light text-center text-black">
+                <p className="font-light text-center text-black lg:text-start">
                   Interior design is the art and science enhancing
                 </p>
             </span>
             <span className="bg-[#fffaf4] duration-700 flex items-center lg:items-start flex-col py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <TbStackBackward className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Construction</p>
-                <p className="font-light text-center text-black ">
+                <p className="font-light text-center text-black lg:text-start ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
             <span className="bg-[#fffaf4] duration-700 flex items-center lg:items-start flex-col py-8 px-6 hover:bg-white hover:text-[#fb7a3f]">
                 <BiSolidTreeAlt className="text-5xl"/>
                 <p className="text-xl text-[#054130] font-semibold py-8 pb-4">Decoration</p>
-                <p className="font-light text-center text-black ">
+                <p className="font-light text-center text-black lg:text-start ">
                   Interior design is the art and science enhancing
                 </p>
             </span>
