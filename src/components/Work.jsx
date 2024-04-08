@@ -57,7 +57,7 @@ function Work() {
           <div className="py-20 lg:w-1/2 lg:py-0">
             <p className="text-[#fb7a3f]">Our architects journey</p>
             <h1 className="text-[#054130] lg:text-5xl font-semibold pt-4 pb-6">
-              Beautiful accoustics & <span className="underline decoration-[#fdca51]">Achievements</span> 
+              Beautiful accoustics & <span className="underline decoration-[#fdca51] primary-font">Achievements</span> 
             </h1>
             <p className="font-light leading-8 ">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime odio voluptas tempora nihil voluptatem, magnam eaque blanditiis officia iusto asperiores voluptate placeat id! Illo inventore quae veniam maxime perferendis, ad necessitatibus eum eos quo, veritatis tempore ipsa, cumque numquam! Nihil.
