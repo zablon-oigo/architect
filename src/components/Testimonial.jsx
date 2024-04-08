@@ -61,7 +61,7 @@ function Testimonial() {
         <div className="xl:w-[1200px] text-white mx-auto px-3">
             <p className="">Testimonial</p>
             <div className="relative pb-8 lg:pb-0">
-                <h1 className="text-xl lg:text-4xl">What our <span className="underline decoration-[#fdca51] ">client</span> say's</h1>
+                <h1 className="text-xl lg:text-4xl">What our <span className="underline decoration-[#fdca51] primary-font ">client</span> say's</h1>
                 <Carousel 
                 responsive={responsive}
                 swipable={true}
