@@ -32,7 +32,7 @@ const responsive = {
         </button>
         <div className="relative z-20 text-center">
             <img src={img} alt="" className="w-20 h-20 mx-auto -mt-8 rounded-full" />
-            <p className="pt-4 pb-2 text-xl font-semibold">{name}</p>
+            <p className="pt-4 pb-2 text-xl font-semibold capitalize">{name}</p>
             <p className="pb-4 font-light">{title}</p>
             <hr className="" />
             <p className="pt-4 font-light">{description}</p>
