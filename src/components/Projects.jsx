@@ -4,7 +4,10 @@ import {IoIosArrowUp, IoMdArrowDropright} from 'react-icons/io'
 import {FaArrowUp, FaStackOverflow} from 'react-icons/fa'
 import {TbVectorBezierCircle} from 'react-icons/tb'
 import { BiLoaderCircle } from 'react-icons/bi'
-import image from '../assets/image.png'
+import design1 from '../assets/design1.jpg'
+import design2 from '../assets/design2.jpg'
+import design3 from '../assets/design3.jpg'
+import sub  from '../assets/sub.png'
 
 
 function Projects() {
@@ -32,10 +35,10 @@ function Projects() {
                     Our completed projects
                 </h1>
                 <div className="items-center justify-between pt-8 md:flex lg:pt-20 gap-x-16">
-                    <Card img={image} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
+                    <Card img={design1} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
                     
-                    <Card img={image} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
-                    <Card img={image} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
+                    <Card img={design2} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
+                    <Card img={design3} title={'lorem ipsum'} desc={'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, eveniet.'}/>
                 </div>
                 <button className="flex items-center px-4 py-2 mx-auto mt-12 text-sm text-white bg-[#fd7b47] gap-2 transition duration-300 ease-out transform rounded-full hover:scale-110 ">
                 <p className="">Load more </p>
@@ -74,7 +77,7 @@ function Projects() {
                         <p className="text-[#fb7a3f]">
                             Our Newsletter
                         </p>
-                        <h1 className="text-[#054130] lg:text-4xl font-semibold pt-4 pb-6">subscribe our daily <span className="underline decoration-[#fdca51]">Newsletter</span> for update
+                        <h1 className="text-[#054130] lg:text-4xl font-semibold pt-4 pb-6">Subscribe our daily <span className="underline decoration-[#fdca51] primary-font">newsletter</span> for update
                         </h1>
                         <p className="leading-8 text-black">
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas hic exercitationem ex odit iure consequuntur consequatur doloribus officia modi, at cumque? Non excepturi quidem officiis rerum consectetur incidunt voluptatum ex?
@@ -89,7 +92,7 @@ function Projects() {
                         </div>
                     </div>
                      <div className="flex justify-center py-8 lg:py-0">
-                        <img src={image} alt="" className="lg:w-full w-80" />
+                        <img src={sub} alt="" className="lg:w-full w-80" />
                      </div>
                 </section>
         </div>
