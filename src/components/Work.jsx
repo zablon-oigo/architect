@@ -50,7 +50,7 @@ function Work() {
             <SiIcomoon className="text-6xl text-[#fb7a3f] absolute top-0 right-0 opacity-20 rotate-90"/>
           </div>
         </section>
-        <section className="relative items-center justify-between mt-12 lg:flex lg:p-8">
+        <section className="relative items-center justify-between p-8 mt-12 lg:flex">
           <div className="flex justify-center">
             <img src={draw} alt="" className="mr-0 rounded-lg lg:w-full w-80 lg:mr-10" />
           </div>
