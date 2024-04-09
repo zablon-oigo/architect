@@ -72,14 +72,14 @@ function Projects() {
                     </span>  
                 
                 </section>
-                <section className="relative items-center justify-between mt-12 lg:flex lg:p-8">
-                    <div className="lg:w-1/2">
+                <section className="relative items-center justify-between mt-12 lg:flex lg:p-6">
+                    <div className="w-full lg:w-1/2">
                         <p className="text-[#fb7a3f]">
                             Our Newsletter
                         </p>
                         <h1 className="text-[#054130] lg:text-4xl font-semibold pt-4 pb-6">Subscribe our daily <span className="underline decoration-[#fdca51] primary-font">newsletter</span> for update
                         </h1>
-                        <p className="leading-8 text-black">
+                        <p className="leading-normal text-black lg:leading-8">
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas hic exercitationem ex odit iure consequuntur consequatur doloribus officia modi, at cumque? Non excepturi quidem officiis rerum consectetur incidunt voluptatum ex?
                         </p>
                         <div className="relative flex items-center pt-8">
@@ -91,8 +91,8 @@ function Projects() {
                             
                         </div>
                     </div>
-                     <div className="flex justify-center py-8 lg:py-0">
-                        <img src={sub} alt="" className="lg:w-full w-80" />
+                     <div className="flex justify-center py-8 lg:w-2/3 lg:py-0">
+                        <img src={sub} alt="" className="lg:w-full w-60" />
                      </div>
                 </section>
         </div>
