@@ -64,7 +64,7 @@ function Footer() {
           
         </div>
         
-
+              <p className="mt-10 text-sm text-center font-extralight">Copyright &copy; {new Date().getFullYear()}</p>
     </footer>
   )
 }
