@@ -49,7 +49,7 @@ function Projects() {
             <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute bottom-0 left-0 rotate-[225deg]"/>
             <IoIosArrowUp className="text-[#fb7a3f] text-4xl absolute bottom-0 right-0 rotate-[134deg]"/>
             </section>
-            <section className="flex items-center justify-between gap-2 mt-24 mb-16 ">
+            <section className="flex gap-2 mt-24 mb-16 -ml-14 lg:ml-0 lg:items-center lg:justify-between ">
                 <span className="flex items-center lg:gap-x-2">
                     <MdOfflineBolt className='text-md lg:text-3xl'/>
                     <p className="text-xs font-medium lg:text-xl">BoltShift</p>
