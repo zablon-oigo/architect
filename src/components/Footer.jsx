@@ -4,7 +4,7 @@ import { IoMdArrowDropright } from "react-icons/io"
 function Footer() {
   return (
     <footer className="bg-[#003b29] text-white pb-16">
-        <div className="container flex justify-between px-3 pt-8 mx-auto lg:pt-20">
+        <div className="container flex justify-between flex-col px-3 pt-8 mx-auto lg:pt-20">
             <div className="w-full lg:w-2/3">
               <span className="">
                 <button className="flex items-center mb-4 text-white lg:w-1/3 gap-x-4">
