@@ -4,8 +4,8 @@ import { IoMdArrowDropright } from "react-icons/io"
 function Footer() {
   return (
     <footer className="bg-[#003b29] text-white pb-16">
-        <div className="container flex justify-between flex-col px-3 pt-8 mx-auto lg:pt-20">
-            <div className="w-full lg:w-2/3">
+        <div className="container flex flex-col justify-between px-3 pt-8 mx-auto lg:pt-20">
+            <div className="w-full mb-4 lg:w-2/3">
               <span className="">
                 <button className="flex items-center mb-4 text-white lg:w-1/3 gap-x-4">
                   <FaBolt className='text-2xl'/>
@@ -28,7 +28,7 @@ function Footer() {
               </span>
             </div>
 
-            <div className="flex justify-around w-full lg:w-3/4">
+            <div className="flex justify-between w-full lg:justify-around lg:w-3/4">
             <ul className="text-xl font-light capitalize gap-y-6">
                 <li className="">
                     <a href="" className="">home</a>
