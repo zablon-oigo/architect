@@ -1,3 +1,7 @@
+## Tech Stack
+
+**Client:** React, TailwindCSS
+
 Clone the project
 
 ```bash
